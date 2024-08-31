@@ -1,0 +1,40 @@
+cd ASSIGNMENT/ASSIGNMENT_2/
+ls
+cd ASSIGNMENT2/
+LS
+ls
+cd c
+cd commands.
+exit
+clear
+history
+ls
+
+
+ls -al
+
+
+discover
+
+
+discover "main.c"
+
+
+c
+
+
+cd ..
+
+
+ls
+
+
+ls DATA/
+
+
+ls DATA/2021101100_assign3/
+
+
+exit
+
+
